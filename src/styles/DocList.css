@@ -1,0 +1,8 @@
+.list::-webkit-scrollbar {
+    display: none;
+}
+
+.list {
+    margin: 50px 150px;
+    border-radius: 10px;
+}

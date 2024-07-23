@@ -1,0 +1,19 @@
+body{
+ background-color: #000;
+}
+
+ul {
+  display: flex;
+  list-style-type: none; /* Remove bullets */
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  margin-right: 10px; /* Add some space between items */
+}
+
+h1, h4 {
+  color: #fff;
+  text-align: center;
+}

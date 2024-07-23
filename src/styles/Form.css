@@ -1,0 +1,23 @@
+.form{
+    margin: 50px 300px;
+    padding: 50px 100px;
+    background-color: #191a15;
+    border-radius: 10px;
+
+    .text{
+        color: white;
+    }
+    .MuiStepLabel-label.Mui-active {
+        color: white;
+    }
+    .MuiStepLabel-label{
+        color: white;
+    }
+    .MuiStepLabel-label.Mui-completed{
+        color: white;
+    }
+    .paper{
+        background-color: #191a15;
+    }
+}
+
